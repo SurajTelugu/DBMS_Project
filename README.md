@@ -1,2 +1,3 @@
 # DBMS_Project
-Created a repo for uploading DBMS project
+Created a DataBase of resarch papers as a DBMS project
+and performed queries on the DataBase
